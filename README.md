@@ -1,2 +1,3 @@
 # GitProject
 ## Introduction
+## Purpose
